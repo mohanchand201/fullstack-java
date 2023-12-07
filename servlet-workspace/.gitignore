@@ -1,0 +1,7 @@
+**/metadata/*
+**/.metadata/*
+/metadata/
+.metadata/*
+.settings/
+Servers
+Servers/*
